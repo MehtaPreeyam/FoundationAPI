@@ -1,0 +1,7 @@
+requests
+flask
+flask-migrate
+psycopg2-binary
+sqlalchemy
+python-dotenv
+apscheduler
